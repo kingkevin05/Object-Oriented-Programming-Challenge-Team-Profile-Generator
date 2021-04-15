@@ -22,17 +22,18 @@ Run the app with with `node index.js.`
   
   ## Usage
   
-  ![Gif demo of Team-Profile-generator](team-gen-demo.gif)
+  ![Gif demo of Team-Profile-generator](https://github.com/kingkevin05/Object-Oriented-Programming-Challenge-Team-Profile-Generator/blob/main/images/team-gen-demo.gif)
+
   
   *Instructions and examples for use:*
   
 When you run `node index.js`, the application uses the `inquirer` package to prompt you in the command line with a series of questions about the employees on your team.
 
-![screenshot2](https://github.com/kingkevin05/local-weather/blob/main/images/Screenshot2.png)
+![screenshot2](https://github.com/kingkevin05/Object-Oriented-Programming-Challenge-Team-Profile-Generator/blob/main/images/Screenshot2.png)
 
   ## Testing
 
-![screenshot1](https://github.com/kingkevin05/local-weather/blob/main/images/Screenshot1.png)
+![screenshot1](https://github.com/kingkevin05/Object-Oriented-Programming-Challenge-Team-Profile-Generator/blob/main/images/Screenshot1.png)
 
   ## License
   
